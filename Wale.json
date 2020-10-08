@@ -1,0 +1,12 @@
+{
+  "description": "This is my dev domain",
+  "repo": "https://github.com/waledagne/waledagne.github.io",
+  "owner": {
+    "username": "waledagne",
+    "email": "walelgndagne@gmail.com"
+  },
+  "record": {
+    "CNAME": "waledagne.github.io",
+    "URL": "https://Walelgn.is-a.dev"
+  }
+}
